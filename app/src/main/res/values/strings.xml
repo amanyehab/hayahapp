@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hayah</string>
+    <string name="open">Open navigation drawer</string>
+    <string name="close">Close navigation drawer</string>
+    <string name="dropmenu">Select item</string>
+    <string-array name="options">
+        <item>             </item>
+        <item>Select option</item>
+        <item>             </item>
+        <item>Diagnose with photo</item>
+        <item>                </item>
+        <item>Diagnose by questions</item>
+        <item>   </item>
+        <item>Diagnose by both</item>
+        <item>   </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
